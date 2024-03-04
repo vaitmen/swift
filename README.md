@@ -1,2 +1,0 @@
-# swift
-My tea app
